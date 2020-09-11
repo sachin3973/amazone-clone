@@ -1,0 +1,18 @@
+.wishlist {
+  display: flex;
+  padding: 20px;
+  background-color: #fff;
+  height: max-content;
+  flex-direction: column;
+}
+
+.wishlist__ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.wishlist__title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgrey;
+}
